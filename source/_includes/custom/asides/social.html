@@ -1,0 +1,20 @@
+<section class="googleplus{% if site.googleplus_hidden %} googleplus-hidden{% endif %}">
+  {% if site.googleplus_user %}
+    <a target="_blank" href="https://plus.google.com/{{ site.googleplus_user }}?rel=author">
+      <img src="/images/1329108700_social_google_box_blue.png" width="32" height="32">
+    </a>
+  {% endif %}
+
+  {% if site.facebook_user %}
+    <a target="_blank" href="https://www.facebook.com/{{ site.facebook_user }}">
+      <img src="/images/1329106039_social_facebook_box_blue.png" width="32" height="32">
+    </a>
+  {% endif %}
+  
+  {% if site.twitter_user %}
+    <a target="_blank" href="https://twitter.com/#!/{{ site.twitter_user }}">
+      <img src="/images/1329108719_social_twitter_box_blue.png" width="32" height="32">
+    </a>
+  {% endif %}
+  <div class="clear:both"></div>
+</section>
