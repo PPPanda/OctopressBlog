@@ -8,11 +8,11 @@ status: publish
 tags: 
   - baidu
   - seo
-  - 主题
+  - theme
   - 原创
   - 导航
-  - 文章
-  - 更新
+  - post
+  - update
   - 淘宝
   - 论坛
 title: 从12月百度算法变化预测2011年SEO方向

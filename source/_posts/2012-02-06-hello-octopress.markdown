@@ -75,6 +75,16 @@ Octopress 是一个很不错的 blog 程序，好处我就不说了，自己查�
         
     然后再执行 rake 的命令。
     或者，在 d:\RailsInstaller\Ruby1.9.2\setup_environment.bat 的最后面加上这两句。
+
+第四个：
+
+    ## copying public to _deploy
+    rake aborted!
+    unknown file type: public/./blog/categories/??
+    
+解决：
+
+这个就很郁闷了,categories 分类不能有中文的，现在嘛还无解
     
 ## 常用的编译提交命令 ##
 

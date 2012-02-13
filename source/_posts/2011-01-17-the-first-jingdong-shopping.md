@@ -13,7 +13,7 @@ tags:
   - 在线
   - 安卓
   - 手机
-  - 更新
+  - update
   - 电子狗
 title: "TinyGPS 电子狗"
 type: post

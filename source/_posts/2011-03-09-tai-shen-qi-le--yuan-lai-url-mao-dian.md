@@ -1,7 +1,7 @@
 --- 
 categories: 
   - internet
-  - 随笔
+  - Essays
 comments: true
 layout: post
 published: true

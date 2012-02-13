@@ -16,8 +16,8 @@ tags:
   - server
   - User
   - 同步
-  - 更新
-  - 转载
+  - update
+  - Reproduced
 title: "SET 和 SHOW语法（三）"
 type: post
 ---

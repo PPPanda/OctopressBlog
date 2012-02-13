@@ -9,7 +9,7 @@ tags:
   - wordpress
   - 微博
   - 微薄
-  - 插件
+  - plugs
   - 新浪
   - 腾讯
   - 豆瓣

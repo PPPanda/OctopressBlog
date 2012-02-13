@@ -1,7 +1,7 @@
 --- 
 categories: 
-  - 转载
-  - 随笔
+  - Reproduced
+  - Essays
 comments: true
 layout: post
 published: true
@@ -9,7 +9,7 @@ status: publish
 tags: 
   - IT工程师
   - 程序员
-  - 转载
+  - Reproduced
 title: 程序员三大法则
 type: post
 ---

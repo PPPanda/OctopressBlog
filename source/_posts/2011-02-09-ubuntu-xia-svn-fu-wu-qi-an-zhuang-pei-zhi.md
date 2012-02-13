@@ -21,7 +21,7 @@ tags:
   - 乌班图
   - 同步
   - 密码
-  - 更新
+  - update
 title: ubuntu下SVN服务器安装配置
 type: post
 ---

@@ -1,6 +1,6 @@
 --- 
 categories: 
-  - 随笔
+  - Essays
 comments: true
 layout: post
 published: true
@@ -8,7 +8,7 @@ status: publish
 tags: 
   - 公司
   - 淘宝
-  - 随笔
+  - Essays
 title: 淘宝啊，淘宝，项目啊，项目
 type: post
 ---

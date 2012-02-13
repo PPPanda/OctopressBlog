@@ -1,12 +1,12 @@
 --- 
 categories: 
-  - 随笔
+  - Essays
 comments: true
 layout: post
 published: true
 status: publish
 tags: 
-  - 随笔
+  - Essays
 title: 我们到常州服务区了
 type: post
 ---

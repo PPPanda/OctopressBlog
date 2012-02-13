@@ -10,7 +10,7 @@ tags:
   - itouch
   - 丫丫
   - 丫丫网
-  - 免费
+  - free
   - 育儿
 title: "我儿子上封面了,猜猜是那个 - iPhone iTouch 育儿指南"
 type: post

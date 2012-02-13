@@ -16,15 +16,15 @@ tags:
   - web
   - wordpress
   - 上海
-  - 主题
-  - 免费
+  - theme
+  - free
   - 分类
-  - 博客
+  - blog
   - 批量
-  - 插件
+  - plugs
   - 教程
-  - 文章
-  - 更新
+  - post
+  - update
 title: wordpress必备插件
 type: post
 ---

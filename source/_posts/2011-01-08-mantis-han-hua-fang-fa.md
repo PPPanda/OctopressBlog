@@ -1,6 +1,6 @@
 --- 
 categories: 
-  - 随笔
+  - Essays
 comments: true
 layout: post
 published: true
@@ -9,7 +9,7 @@ tags:
   - ie
   - mantis
   - php
-  - 汉化
+  - hanhua
 title: mantis汉化方法
 type: post
 ---

@@ -15,9 +15,9 @@ tags:
   - 分类
   - 原创
   - 批量
-  - 插件
-  - 文章
-  - 转载
+  - plugs
+  - post
+  - Reproduced
 title: "批量修改WordPress文章分类的插件Batch Cat"
 type: post
 ---

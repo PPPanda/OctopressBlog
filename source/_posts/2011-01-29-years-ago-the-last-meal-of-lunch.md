@@ -1,13 +1,13 @@
 --- 
 categories: 
-  - 随笔
+  - Essays
 comments: true
 layout: post
 published: true
 status: publish
 tags: 
   - 公司
-  - 随笔
+  - Essays
 title: 年前在公司的最后一顿午饭
 type: post
 ---

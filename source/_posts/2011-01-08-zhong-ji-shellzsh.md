@@ -15,7 +15,7 @@ tags:
   - User
   - zsh
   - 乌班图
-  - 文章
+  - post
 title: 终极Shell——Zsh
 type: post
 ---

@@ -35,11 +35,11 @@ tags:
   - Vanilla
   - win
   - wordpress
-  - 主题
-  - 博客
+  - theme
+  - blog
   - 在线
   - 微博
-  - 插件
+  - plugs
   - 腾讯
   - 论坛
 title: "国外轻量级开源论坛系统Vanilla Forums介绍"
@@ -119,7 +119,7 @@ type: post
 
 通过上面的修改，可以将中文话题以#话题#的形式点击跳转，类似各大微博，但对于中文搜索依然不可用。
 
-<strong>插件</strong>推荐
+<strong>- plugs</strong>推荐
 程序初期提供了16个插件，但并非感觉上并不是每个都用到，下面就写一写我这两天测试推荐使用插件。
 <strong>AdSense</strong>，顾名思义，就是Google AdSense的插件，将广告添加在主题帖之后。
 <strong>EasyReply</strong>，通过这个插件，帖子会提供一个链接，点击之后会在回复框自动添加@用户名 来提醒用户有人回帖了。

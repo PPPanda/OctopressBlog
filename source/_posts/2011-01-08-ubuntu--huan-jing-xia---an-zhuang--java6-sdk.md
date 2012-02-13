@@ -12,7 +12,7 @@ tags:
   - OS
   - PLUGIN
   - 乌班图
-  - 更新
+  - update
 title: "ubuntu 环境下 安装 java6-sdk"
 type: post
 ---

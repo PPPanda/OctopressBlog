@@ -13,14 +13,14 @@ tags:
   - tools
   - web
   - wordpress
-  - 主题
-  - 免费
-  - 博客
-  - 插件
-  - 文章
-  - 更新
-  - 汉化
-  - 转载
+  - theme
+  - free
+  - blog
+  - plugs
+  - post
+  - update
+  - hanhua
+  - Reproduced
 title: WordPress建站之初十大必备插件
 type: post
 ---

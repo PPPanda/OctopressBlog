@@ -12,8 +12,8 @@ tags:
   - OS
   - php
   - 教程
-  - 文章
-  - 转载
+  - post
+  - Reproduced
 title: php删除文件unlink
 type: post
 ---

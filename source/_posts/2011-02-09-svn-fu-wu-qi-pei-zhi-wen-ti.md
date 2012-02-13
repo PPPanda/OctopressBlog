@@ -24,7 +24,7 @@ tags:
   - 同步
   - 密码
   - 教程
-  - 更新
+  - update
   - 浏览器
 title: SVN服务器配置问题
 type: post

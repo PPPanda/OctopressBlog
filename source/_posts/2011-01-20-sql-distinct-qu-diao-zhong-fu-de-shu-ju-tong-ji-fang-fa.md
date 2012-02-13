@@ -8,7 +8,7 @@ status: publish
 tags: 
   - server
   - 分类
-  - 转载
+  - Reproduced
 title: "SQL DISTINCT去掉重复的数据统计方法"
 type: post
 ---

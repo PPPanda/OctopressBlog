@@ -1,12 +1,12 @@
 --- 
 categories: 
-  - 随笔
+  - Essays
 comments: true
 layout: post
 published: true
 status: publish
 tags: 
-  - 随笔
+  - Essays
 title: 周口的一天，下图的小妹妹是儿子得表姐
 type: post
 ---

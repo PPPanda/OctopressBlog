@@ -15,8 +15,8 @@ tags:
   - 乌班图
   - 在线
   - 密码
-  - 插件
-  - 更新
+  - plugs
+  - update
 title: Ubuntu下使用SVN
 type: post
 ---

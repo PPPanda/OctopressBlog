@@ -1,6 +1,6 @@
 --- 
 categories: 
-  - 随笔
+  - Essays
 comments: true
 layout: post
 published: true
@@ -8,7 +8,7 @@ status: publish
 tags: 
   - 上海
   - 看病
-  - 随笔
+  - Essays
 title: 手掌脱皮的诊断-周口中医药，这医生不错
 type: post
 ---

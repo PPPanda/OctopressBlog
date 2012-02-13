@@ -1,12 +1,12 @@
 --- 
 categories: 
-  - 随笔
+  - Essays
 comments: true
 layout: post
 published: true
 status: publish
 tags: 
-  - 随笔
+  - Essays
 title: 如此修理
 type: post
 ---

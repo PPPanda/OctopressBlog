@@ -13,13 +13,13 @@ tags:
   - JavaScript
   - News
   - web
-  - 主题
-  - 插件
+  - theme
+  - plugs
   - 教程
   - 数字
-  - 文章
+  - post
   - 新闻
-  - 更新
+  - update
   - 浏览器
   - 计算机
   - 论坛

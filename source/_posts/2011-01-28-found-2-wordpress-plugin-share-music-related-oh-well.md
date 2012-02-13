@@ -9,9 +9,9 @@ tags:
   - 1g1g
   - wordpress
   - 亦歌
-  - 博客
-  - 插件
-  - 文章
+  - blog
+  - plugs
+  - post
   - 软件
 title: "找到2个wordpress 分享音乐相关的插件，不错哦～"
 type: post

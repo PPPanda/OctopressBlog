@@ -6,7 +6,7 @@ layout: post
 published: true
 status: publish
 tags: 
-  - 免费
+  - free
 title: 几个比较好的免费资源
 type: post
 ---

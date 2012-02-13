@@ -9,10 +9,10 @@ tags:
   - tools
   - wordpress
   - 分类
-  - 博客
+  - blog
   - 同步
-  - 插件
-  - 文章
+  - plugs
+  - post
 title: "2款 从 twitter 同步到 wordpress 的插件"
 type: post
 ---

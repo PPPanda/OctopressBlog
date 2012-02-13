@@ -14,7 +14,7 @@ tags:
   - google
   - "page speed"
   - 兼容
-  - 插件
+  - plugs
 title: 清除页面中多余的CSS样式
 type: post
 ---
