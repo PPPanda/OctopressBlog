@@ -4,5 +4,7 @@
       if(location.hostname!="127.0.0.1"&&location.hostname!="localhost"){location="http://{{ site.domain }}/";}
     }
   </script>
-  <noscript>Attention please! My blog url is <a href="http://{{ site.domain }}/">http://{{ site.domain }}/</a>, Attention please!</noscript>
+  <noscript style="width: 100%; background: none repeat scroll 0% 0% yellow; float: left; clear: both;">
+    Attention please! My blog url is <a href="http://{{ site.domain }}/">http://{{ site.domain }}/</a>, Attention please!
+  </noscript>
 {% endif %}
