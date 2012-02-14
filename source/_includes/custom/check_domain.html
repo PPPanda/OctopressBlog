@@ -1,6 +1,8 @@
 {% if site.domain %}
   <script language="JavaScript">
-    if (location.hostname!="{{ site.domain }}"){ location={{ site.domain }};}
+    if (location.hostname!="{{ site.domain }}"){
+      if(location.hostname!="127.0.0.1"&&location.hostname!="localhost"){location="http://{{ site.domain }}/";}
+    }
   </script>
-  <noscript><a href="{{ site.domain }}">Please click on the right to return to address</a></noscript>
+  <noscript>Attention please! My blog url is <a href="http://{{ site.domain }}/">http://{{ site.domain }}/</a>, Attention please!</noscript>
 {% endif %}
