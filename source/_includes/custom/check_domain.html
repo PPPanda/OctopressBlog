@@ -1,0 +1,6 @@
+{% if site.domain %}
+  <script language="JavaScript">
+    if (location.hostname!="{{ site.domain }}"){ location={{ site.domain }};}
+  </script>
+  <noscript><a href="{{ site.domain }}">Please click on the right to return to address</a></noscript>
+{% endif %}
