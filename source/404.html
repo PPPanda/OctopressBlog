@@ -1,0 +1,22 @@
+---
+layout: page
+title: 404 Page
+footer: false
+---
+
+<div id="blog-archives">
+<script language="JavaScript">
+if(location.pathname.split('/')[1]!='blog'){
+  location="http://{{ site.domain }}/blog"+location.pathname;
+}
+</script>
+{% if site.simple_search %}
+<form action="{{ site.simple_search }}" method="get">
+	<span>没错，这就是传说中的404，赶紧输入关键词离开这里吧！</span>
+	<fieldset role="search">
+		<input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}" />
+		<input class="search" type="text" name="q" results="0" placeholder="Search"/>
+	</fieldset>
+</form>
+{% endif %}
+</div>
