@@ -1,0 +1,33 @@
+---
+layout: page
+title: "categories"
+date: 2012-02-17 16:51
+comments: true
+sharing: true
+footer: true
+---
+
+<div id="blog-archives">
+{% for posts in site.categories %}
+  <h2>{{ posts.category }}</h2>
+  {% for post in site.categories[posts.category] reverse %}
+    <article>
+      {% include archive_post.html %}
+    </article>
+  {% endfor %}
+{% endfor %}
+</div>
+
+
+<div id="blog-archives" class="category">
+{% for post in site.categories["it"] %}
+{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% unless year == this_year %}
+  {% assign year = this_year %}
+  <h2>{{ year }}</h2>
+{% endunless %}
+<article>
+  {% include archive_post.html %}
+</article>
+{% endfor %}
+</div>
