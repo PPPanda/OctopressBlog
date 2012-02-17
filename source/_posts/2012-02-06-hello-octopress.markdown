@@ -4,6 +4,14 @@ title: "Hello Octopress"
 date: 2012-02-06 13:00
 comments: true
 categories: 
+  - Ruby
+tags: 
+  - octopress
+  - git
+  - github
+  - blog
+  - wordpress
+  - ruby
 ---
 
 Octopress 是一个很不错的 blog 程序，好处我就不说了，自己查文档，现在把我安装时碰到的问题记录下来，供后来的朋友参考。
