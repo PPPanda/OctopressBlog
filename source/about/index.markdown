@@ -69,7 +69,7 @@ footer: true
  - + html && javascript && css
  - + php && mysql
  - + linux && nginx && apache && Memcached
- - + .net && mysql
+ - + .net && mssql
  - + ruby on rails
  - 框架
  - + jquery
