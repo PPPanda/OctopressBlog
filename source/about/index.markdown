@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "My name is Dray"
+title: "Dray Chou"
 date: 2012-02-07 15:09
 comments: true
 sharing: true
@@ -41,41 +41,51 @@ footer: true
 
 ## 你都做过什么？ ##
 
- - 维护
- -  + [童言无忌](http://t.iyaya.com)
- -  + [品牌街](http://pp.iyaya.com)
- -  + [宝宝主页](http://bb.iyaya.com)
- - 开发&&维护
- -  + [试用](http://www.iyaya.com/shiyong/)
- -  + [本地指南-24城市](http://sh.iyaya.com/zhinan/yihu/)
- -  + 淘宝应用-育儿中心：要求2亿并发，记忆深刻啊
- -  + [品牌指南](http://www.iyaya.com/pinpai/zhinan/)
- -  + 与百度，QQ，360 开放平台合作开发线上应用
-	  产品有：发育指南，排卵和安全期计算，生男生女清宫图 
-	  [百度应用地址](http://app.baidu.com/appweb/search?w=%E4%B8%AB%E4%B8%AB%E7%BD%91 ),
-	  [QQ应用地址](http://web.qq.com/) 
-	  [360应用地址](http://zhuomian.360.cn/)
- - 未完成
- -  + 育儿指南重构
- -  + 新版育儿中心
- -  + 宝宝主页新版首页
- - 进行中
- -  + 新公司旧产品重构
+### 维护
+
+ - [童言无忌](http://t.iyaya.com)
+ - [品牌街](http://pp.iyaya.com)
+ - [宝宝主页](http://bb.iyaya.com)
+
+### 开发&&维护
+
+ - [试用](http://www.iyaya.com/shiyong/)
+ - [本地指南-24城市](http://sh.iyaya.com/zhinan/yihu/)
+ - 淘宝应用-育儿中心：要求2亿并发，记忆深刻啊
+ - [品牌指南](http://www.iyaya.com/pinpai/zhinan/)
+ - 与百度，QQ，360 开放平台合作开发线上应用
+      产品有：发育指南，排卵和安全期计算，生男生女清宫图 
+      [百度应用地址](http://app.baidu.com/appweb/search?w=%E4%B8%AB%E4%B8%AB%E7%BD%91 ),
+      [QQ应用地址](http://web.qq.com/) 
+      [360应用地址](http://zhuomian.360.cn/)
+
+### 未完成
+
+ - 育儿指南重构
+ - 新版育儿中心
+ - 宝宝主页新版首页
+
+### 进行中
+
+ - 新公司旧产品重构
 
 ## 常用那些技术？ ##
 
- - 技术
- - + c++
- - + html && javascript && css
- - + php && mysql
- - + linux && nginx && apache && Memcached
- - + .net && mssql
- - + ruby on rails
- - 框架
- - + jquery
- - + zend && CI && Yii && Smart
- - + Asp .net MVC 3.0
- - + Rails
+### 技术
+
+ - c++
+ - html && javascript && css
+ - php && mysql
+ - linux && nginx && apache && Memcached
+ - .net && mssql
+ - ruby on rails
+
+### 框架
+
+ - jquery
+ - zend && CI && Yii && Smart
+ - Asp .net MVC 3.0
+ - Rails
 
 ## 怎么找到你？ ##
 
