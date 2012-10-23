@@ -26,10 +26,10 @@ footer: true
 
 ## 你的站在那里？ ##
 
- - blog：[http://zh-w.info](http://zh-w.info)
+ - blog：[http://draychou.info](http://draychou.info)
  - wiki: [http://zh-w.net](http://zh-w.net)
  - photo: [http://zh-w.tk](http://zh-w.tk)
- - info: [http://draychou.info](http://draychou.info)
+ - info: [http://zh-w.info](http://zh-w.info)
 
 ## 平常喜欢干嘛？ ##
 
@@ -90,7 +90,7 @@ footer: true
 ## 怎么找到你？ ##
 
  - 发邮件|加IM [Gmail|Gtalk](hnzksq@gmail.com)
- - 在此留言 [blog](http://zh-w.info)
+ - 在此留言 [blog](http://draychou.info)
  - 关注我 [@We_Get](https://twitter.com/#!/We_Get)
  - 赞我 [Dray.Chou](https://www.facebook.com/dray.chou)
  - 提及我 [#Dray](https://plus.google.com/u/0/112184504082421648107)
